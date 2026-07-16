@@ -70,3 +70,7 @@ Want to create your own Atlas wallpaper with some original creative designs? Vis
 
 ## 💙 Contributors
 <a href="https://github.com/Atlas-OS/Atlas/graphs/contributors" target="_blank"><img src="https://contrib.rocks/image?repo=Atlas-OS/Atlas&columns=18" alt="Avatars of all contributors"></a>
+
+---
+
+> **Created by Antono**
